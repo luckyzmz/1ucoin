@@ -34,6 +34,15 @@ Installation
 
 
 
+
+
+Clone the repo:
+
+git clone https://github.com/luckyzmz/1ucoin.fun.git
+cd 1ucoin.fun
+
+
+
 Install dependencies (for frontend):
 
 npm install
@@ -91,6 +100,10 @@ IDO: Q3 2025 on QuickSwap (ODC/USDT).
 Contributing
 
 Contributions welcome! Fork the repo, submit pull requests, or open issues.
+
+License
+
+MIT License
 
 Donate: 
 
