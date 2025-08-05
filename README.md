@@ -34,15 +34,6 @@ Installation
 
 
 
-
-
-Clone the repo:
-
-git clone https://github.com/YOUR_USERNAME/1ucoin.git
-cd 1ucoin
-
-
-
 Install dependencies (for frontend):
 
 npm install
