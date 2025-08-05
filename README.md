@@ -92,6 +92,7 @@ Contributing
 
 Contributions welcome! Fork the repo, submit pull requests, or open issues.
 
-License
+Donate: 
 
-MIT License
+0x324FF0078dd9289aA639e3A2F87f634999999999 (ETH,BNB..)
+
